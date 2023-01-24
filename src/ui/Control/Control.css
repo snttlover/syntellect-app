@@ -1,0 +1,13 @@
+input {
+  padding: 10px 0 10px 17px;
+  font-size: 20px;
+  border: 2px solid transparent;
+  width: 400px;
+  background-color: ghostwhite;
+  border-radius: 5px;
+  outline: none;
+}
+
+input:focus {
+  border-color: cornflowerblue;
+}
